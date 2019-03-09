@@ -1,29 +1,15 @@
 ---
-
-layout:post
-
-title:ADOBE全家桶共享
-
-subtitle:ADOBE CC 2018
-
-date:2019-3-9
-
-author:NEVER_Gargoyle
-
-header-img: img/post-bg-ios9-web.jpg
-
+layout:     post
+title:      Adobe全套软件安装
+subtitle:   Adobe CC 2018
+date:       2019-03-09
+author:     NEVER_Gargoyle
+header-img: img/post-bg-re-vs-ng2.jpg
 catalog: true
-
 tags:
-
-- 资源共享
-
-- adobe
-
+    - 资源共享
+    - ADOBE
 ---
-
-
-
 【NEVER_Gargoyle的小窝---分享分站】
 
 Adobe2018全套软件，直接安装，原价超过5000！！！
