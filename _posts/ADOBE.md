@@ -1,5 +1,3 @@
-# #ADOBE
-
 ---
 
 layout:post
