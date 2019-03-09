@@ -1,13 +1,14 @@
 # Site settings
 title: NEVER_Gargoyle的小站
 SEOTitle: NEVER_Gargoyle的小站 | Blog
-header-img: img/post-bg-desk.jpg
+#header-img: img/post-bg-desk.jpg
+header-img: https://avatars3.githubusercontent.com/u/40263799?s=460&v=4
 email: never-gargoyle@hotmail.com
 description: "不止是一个分享网站"
 keyword: "Blog, NEVER_Gargoyle的博客, Gargoyle, 唐鸣远, 资源, 分享, Richard"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+url: "https://www.never-gargoyle.xyz"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/RichardTang2003/RichardTang2003.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
