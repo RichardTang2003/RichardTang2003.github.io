@@ -1,6 +1,6 @@
 # Site settings
-title: NEVER_Gargoyle的小站
-SEOTitle: NEVER_Gargoyle的小站 | Blog
+title: NEVER_Gargoyle的小窝
+SEOTitle: NEVER_Gargoyle的小窝 | Blog
 header-img: img/post-bg-desk.jpg
 email: never-gargoyle@hotmail.com
 description: "不止是一个分享网站"
@@ -74,7 +74,7 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-#ba_track_id: 
+ba_track_id: 99c52baea295cecb76c7128d470a3bfb
 
 # Google Analytics
 ga_track_id: 'UA-135920429-1'            # Format: UA-xxxxxx-xx
