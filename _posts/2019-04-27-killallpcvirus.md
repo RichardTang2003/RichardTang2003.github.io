@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      【BOA】与RECYCLER病毒斗智斗勇（附赠ESET、Avast激活码）
-subtitle:   没装杀软两年以来第一次受到病毒攻击！
+title:      与RECYCLER病毒斗智斗勇（附赠ESET、Avast激活码）
+subtitle:   【BOA】没装杀软两年以来第一次受到病毒攻击！
 date:       2019-04-28
 author:     NEVER_Gargoyle
 header-img: img/post-bg-2015.jpg
