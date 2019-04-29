@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      与RECYCLER病毒斗智斗勇（附赠ESET、Avast激活码）
+title:      【BOA】与RECYCLER病毒斗智斗勇（附赠ESET、Avast激活码）
 subtitle:   没装杀软两年以来第一次受到病毒攻击！
 date:       2019-04-28
 author:     NEVER_Gargoyle
@@ -10,7 +10,7 @@ tags:
     - PC
     - 病毒
     - 技术
-    - 杀毒软件
+    - BOA
 ---
 # 写在前面  
 为了电脑的速度和稳定性，我向来都不装杀软。（尤其是3某，体验极差）两年以来也没有出什么大问题。这次就出岔子了……为了不让我家里的电脑出问题，我没用在家里用那个U盘，所以也得不到图片，只能靠我描述了，可能会有一点枯燥，理解一下。  
@@ -60,4 +60,3 @@ CNDU-W33G-FGJC-C62B-9MPK（已添加到文件中）
 [官方ESET软件下载页面](http://download.eset.com.cn/download/detail/?product=EIS12)  
 - Avast  
 [网络搜集的Avast码](http://t.cn/ESPWopp)  
-
