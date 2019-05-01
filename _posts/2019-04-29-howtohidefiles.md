@@ -82,7 +82,7 @@ tags:
 
 ### 2.2 通过修改/删除后缀名加密
 
-这种方法比较简单，但是缺点是不同文件的后缀名不一样，一旦忘记就很麻烦。而且一些大佬可以根据.txt的文本看出原来是什么后缀名的文件。
+这种方法比较简单，但是缺点是不同文件的后缀名不一样，一旦忘记就很麻烦。而且一些可以根据源码看出原来是什么后缀名的文件。
 
 使用方法：
 
@@ -90,7 +90,53 @@ tags:
 
 - 删除/修改 ".xxx"
 
+如何根据源码查看后缀名：
+
+这里会用到[NotePad++](https://notepad-plus-plus.org/),[下载镜像点这里](http://t.cn/ES0m2uF)
+
+- 去掉后缀名
+
+- 用NotePad++打开文件
+
+不要紧张，肯定是一堆看不懂的东西。
+
+![image](https://user-images.githubusercontent.com/40263799/57010688-9aa14100-6c30-11e9-865c-092409062ef8.png)
+
+- 寻找可以识别的字符
+
+一般都会有文件类型之类的，比如Word最后几行代码了就有类似字样：
+
+```
+Microsoft Office Word 文档 
+MSWordDoc    Word.Document.8 ?瞦    
+```   
+
+![image](https://user-images.githubusercontent.com/40263799/57010663-6e85c000-6c30-11e9-9202-6899339f6e9e.png)
+
+- 识别出文件类型后添加后缀名
+
 ### 2.3 使用辅助软件
 
 这类的辅助软件和隐藏文件的不一样，大多数是非常棒的。大致原理是加密内容生成一个新的文件。
-# 未完待续
+
+2.3.1  Cryptomator
+
+下载地址：[Cryptomator-1.4.9-x64.exe](http://t.cn/ES0uMJa)
+
+使用方法：
+
+- 第一次使用先点击左下角+号添加资料库
+
+![image](https://user-images.githubusercontent.com/40263799/57011049-59119580-6c32-11e9-9f15-c7e57ee7bcb5.png)
+
+- 选择保存位置和文件夹名称
+
+这个位置就是加密数据库的位置，而名称是未解密时可以看到的文件夹名称。
+
+![image](https://user-images.githubusercontent.com/40263799/57011086-7e9e9f00-6c32-11e9-9408-20021ef2808a.png)
+
+- 创建密码
+
+![image](https://user-images.githubusercontent.com/40263799/57011183-0a183000-6c33-11e9-905c-9e85076cf254.png)
+
+- 输入密码后就可以存文件了
