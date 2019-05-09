@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      与RECYCLER病毒斗智斗勇（附赠ESET、Avast激活码）
+title:      与RECYCLER病毒斗智斗勇（附赠ESET激活码）
 subtitle:   【BOA】没装杀软两年以来第一次受到病毒攻击！
 date:       2019-04-28
 author:     NEVER_Gargoyle
@@ -40,6 +40,7 @@ autorun.inf是我们电脑使用中比较常见的文件之一 ，其作用是�
 # 进一步判断  
 当U盘插入或带病毒的程序启动后，病毒会在U盘中添加**autorun.inf**文件替换U盘图标并将自己的代码复制到EXE和HTM等所有可以修改的文件当中，一旦这些文件运行，程序又会重新启动并重复操作。  
 这就很严重了，我U盘里的大部分文件基本上都被感染了，尤其是EXE只能删除整个文件才能杀毒。所以为了保存数据，现在还没有删也没有用了。。。  
+虽然这个病毒非常容易杀，但是在杀毒之后，部分exe文件和部分dll文件会被删除。导致电脑里很多软件用不了。  
 但是非常奇怪的是，这个病毒没有任何其他的攻击行为。  
 # 反编译（明显不是我能做到的）  
 对U盘“RECYCLER”文件夹里的唯一一个EXE反编译。（这个文件在每一个U盘里名字不一样，但都是随机字母）  
@@ -58,5 +59,4 @@ CNDU-W33G-FGJC-C62B-9MPK（已添加到文件中）
 注意在下载是最好选离线安装包。  
 [网络搜集的ESET码](http://t.cn/ESPOM3k)  
 [官方ESET软件下载页面](http://download.eset.com.cn/download/detail/?product=EIS12)  
-- Avast  
-[网络搜集的Avast码](http://t.cn/ESPWopp)  
+
