@@ -79,14 +79,16 @@ hixns DNS地址,支持UDP/TCP
 
 4. 服务端程序安装  
 这里只有复制粘贴进去回车执行就行了。（要一条一条执行）  
->> yum install -y wget
-安装必要程序
->> wget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocksR.sh
-下载sh文件  
->> chmod +x shadowsocksR.sh
-给sh文件权限  
->> ./shadowsocksR.sh 2>&1 | tee shadowsocksR.log
-运行该文件  
+>> yum install -y wget  
+>安装必要程序  
+>> wget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocksR.sh  
+> 下载sh文件    
+>> chmod +x shadowsocksR.sh  
+> 给sh文件权限  
+>> ./shadowsocksR.sh 2>&1 | tee shadowsocksR.log  
+> 运行该文件   
+
+
 接下来需要配置软件。  
 - 设置密码  
 ![image](https://user-images.githubusercontent.com/40263799/58745454-d4f63c00-8483-11e9-9ae6-0c962cf6c2f5.png)
@@ -119,6 +121,17 @@ hixns DNS地址,支持UDP/TCP
 - 按任意键继续  
 安装过程可能会要一会儿，最后将会用红底显示出你选择过的配置信息，**一定要复制下来或者牢记！！**  
 
-5. 使用端配置
+5. 使用端配置  
+[基础使用方法参考这篇文章](https://www.jianshu.com/p/c5582a496a3f)  
+
+![image](https://user-images.githubusercontent.com/40263799/58745751-6a46ff80-8487-11e9-8dc9-86ad5e67072a.png)  
+设置完之后就是重头戏了，**右键飞机图标，进入选项设置**，会弹出如下界面。**勾选"允许来自局域网的连接"**  
+
+![image](https://user-images.githubusercontent.com/40263799/58745758-85b20a80-8487-11e9-96fb-85d05388b1db.png)  
+**win+R打开运行，输入CMD后回车，在弹出的窗口输入ipconfig**  
+**找到IPv4地址，记下这串数字。**  
+
+现在可以把电脑开着放在一边了。
+
 
 未完
