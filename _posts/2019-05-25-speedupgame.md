@@ -124,14 +124,18 @@ hixns DNS地址,支持UDP/TCP
 5. 使用端配置  
 [基础使用方法参考这篇文章](https://www.jianshu.com/p/c5582a496a3f)  
 
-![image](https://user-images.githubusercontent.com/40263799/58745751-6a46ff80-8487-11e9-8dc9-86ad5e67072a.png)  
-设置完之后就是重头戏了，**右键飞机图标，进入选项设置**，会弹出如下界面。**勾选"允许来自局域网的连接"**  
-
+如果是主机用户，请继续看下去：  
+ 
+**右键飞机图标，进入选项设置**，会弹出如下界面。**勾选"允许来自局域网的连接"**  
+![image](https://user-images.githubusercontent.com/40263799/58745751-6a46ff80-8487-11e9-8dc9-86ad5e67072a.png) 
 ![image](https://user-images.githubusercontent.com/40263799/58745758-85b20a80-8487-11e9-96fb-85d05388b1db.png)  
 **win+R打开运行，输入CMD后回车，在弹出的窗口输入ipconfig**  
 **找到IPv4地址，记下这串数字。**  
 
 现在可以把电脑开着放在一边了。
 
+5. 在主机端设置  
+使主机与电脑连接同一WIFI，打开“网络设置”（应该都有），找到并打开“代理”，将记下的IP地址填进去，端口默认是1080.
 
-未完
+6. 享受游戏吧！
+
