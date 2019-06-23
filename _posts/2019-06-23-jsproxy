@@ -1,0 +1,34 @@
+---
+layout:     post
+title:      通过网页代理访问外网
+subtitle:   无需任何辅助软件，直接使用浏览器访问。
+date:       2019-06-23
+author:     NEVER_Gargoyle
+header-img: img/post-bg-debug.png
+catalog: true
+tags:
+    - PC
+    - GFW
+    - 技术
+    - BOA
+---
+
+## 参考内容  
+[开源项目地址：EtherDream / jsproxy](https://github.com/EtherDream/jsproxy)   
+
+## 测试网址   
+[不想折腾的话可以直接用这个访问【https://proxy.ga】！！！](https://proxy.ga)  
+[不想折腾的话可以直接用这个访问【https://proxy.ga】！！！](https://proxy.ga)  
+[不想折腾的话可以直接用这个访问【https://proxy.ga】！！！](https://proxy.ga)  
+
+想要折腾的可以继续看下去。  
+
+## 自行搭建  
+
+### 非服务器版  
+
+[官方教程—github](https://github.com/EtherDream/jsproxy/blob/master/cf-worker)  
+
+### 服务器版  
+
+[EtherDream / jsproxy项目主页](https://github.com/EtherDream/jsproxy)   
