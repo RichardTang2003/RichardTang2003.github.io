@@ -1499,13 +1499,6 @@ xmlns:mobile="http://www.baidu.com/schemas/sitemap-mobile/1/">
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://https:/www.never-gargoyle.xyz/2019/06/16/kms/</loc>
- <mobile:mobile type="pc,mobile" />
- <priority>0.5</priority>
- <lastmod>2019-08-21</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
  <loc>https://www.never-gargoyle.xyz/2019/05/25/speedupgame/</loc>
  <mobile:mobile type="pc,mobile" />
  <priority>0.5</priority>
