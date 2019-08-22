@@ -3,7 +3,6 @@
 xmlns:mobile="http://www.baidu.com/schemas/sitemap-mobile/1/">
 <url>
  <loc>https://www.never-gargoyle.xyz</loc>
- <mobile:mobile type="pc,mobile" />
  <priority>0.5</priority>
  <lastmod>2019-08-21</lastmod>
  <changefreq>weekly</changefreq>
@@ -1227,13 +1226,6 @@ xmlns:mobile="http://www.baidu.com/schemas/sitemap-mobile/1/">
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://https:/www.never-gargoyle.xyz/8888/08/08/%e5%bc%ba%e8%a1%8c%e7%bd%ae%e9%a1%b6-%e4%ba%86%e8%a7%a3%e6%9c%ac%e7%ab%99%e5%92%8c%e6%9c%ac%e7%ab%99%e7%bc%a9%e5%86%99/itms-services://?action=download-manifest&amp;amp;url=https://www.ivvpn.com/clients/ipa.plist</loc>
- <mobile:mobile type="pc,mobile" />
- <priority>0.5</priority>
- <lastmod>2019-08-21</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
  <loc>https://www.never-gargoyle.xyz/2019/08/17/miband4/</loc>
  <mobile:mobile type="pc,mobile" />
  <priority>0.5</priority>
@@ -1507,7 +1499,7 @@ xmlns:mobile="http://www.baidu.com/schemas/sitemap-mobile/1/">
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://https:/www.never-gargoyle.xyz/2019/06/16/kms/本站已开通KMS服务器</loc>
+ <loc>https://https:/www.never-gargoyle.xyz/2019/06/16/kms/</loc>
  <mobile:mobile type="pc,mobile" />
  <priority>0.5</priority>
  <lastmod>2019-08-21</lastmod>
