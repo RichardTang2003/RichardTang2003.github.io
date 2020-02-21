@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      外联部视频课程
-subtitle:   PR的简易入门教程。为外联部定制！！
+subtitle:   [BOA]PR的简易入门教程。为外联部定制！！
 date:       2020-01-21
 author:     NEVER_Gargoyle
 header-img: img/post-bg-2015.jpg
@@ -9,6 +9,7 @@ catalog: true
 tags:
     - 视频
     - 教程
+    - BOA
 ---
 
 感谢你能看到这篇文章，这篇文章的内容将会永久保存（只要微软不倒），以后想来看一下也是可以的。   
