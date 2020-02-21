@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      水印消除术——你还在用PS抠水印吗？
-subtitle:   每每需要一张图做背景时，看着那一坨水印，就只能打开PS了吗？
-date:       2019-03-17
+title:      外联部视频课程
+subtitle:   PR的简易入门教程。为外联部定制！！
+date:       2020-01-21
 author:     NEVER_Gargoyle
 header-img: img/post-bg-2015.jpg
 catalog: true
