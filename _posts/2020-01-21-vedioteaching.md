@@ -16,9 +16,13 @@ tags:
 
 首先，我们先复习一下PR的基本操作；对于我们现在可以用到的地方来说，这些基础操作才是最重要的，务必熟悉掌握！   
 
-<video id="video" controls="" preload="none" poster="http://om2bks7xs.bkt.clouddn.com/2017-08-26-Markdown-Advance-Video.jpg">
-<source id="mp4" src="http://q62ssd5sv.bkt.clouddn.com/video1%E5%A4%8D%E4%B9%A0.mp4?e=1582333552&token=2tuIfajKFCm5nQiP-Ygqxa4iAMmVOhQCw9nGrqsa:88gJm4cVxUdILqEn0xQac1m-A9c=" type="video/mp4">
-</video>   
+<iframe 
+    height=450 
+    width=800 
+    src="http://q62ssd5sv.bkt.clouddn.com/video1%E5%A4%8D%E4%B9%A0.mp4?e=1582333552&token=2tuIfajKFCm5nQiP-Ygqxa4iAMmVOhQCw9nGrqsa:88gJm4cVxUdILqEn0xQac1m-A9c=" 
+    frameborder=0 
+    allowfullscreen>
+</iframe>
 
 接下来，我们可以讲一点比较轻松有意思的东西。   
 
