@@ -17,7 +17,7 @@ tags:
 首先，我们先复习一下PR的基本操作；对于我们现在可以用到的地方来说，这些基础操作才是最重要的，务必熟悉掌握！   
 
 <video id="video" controls="" preload="none" poster="http://om2bks7xs.bkt.clouddn.com/2017-08-26-Markdown-Advance-Video.jpg">
-<source id="mp4" src="http://never-gargoyle.b7f3.cn/video/%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B/1%E5%A4%8D%E4%B9%A0.mp4" type="video/mp4">
+<source id="mp4" src="http://q62ssd5sv.bkt.clouddn.com/video1%E5%A4%8D%E4%B9%A0.mp4?e=1582333552&token=2tuIfajKFCm5nQiP-Ygqxa4iAMmVOhQCw9nGrqsa:88gJm4cVxUdILqEn0xQac1m-A9c=" type="video/mp4">
 </video>   
 
 接下来，我们可以讲一点比较轻松有意思的东西。   
@@ -26,7 +26,7 @@ tags:
 
 关于调色。   
 <video id="video" controls="" preload="none" poster="http://om2bks7xs.bkt.clouddn.com/2017-08-26-Markdown-Advance-Video.jpg">
-<source id="mp4" src="http://never-gargoyle.b7f3.cn/video/%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B/2%E8%B0%83%E8%89%B2.mp4" type="video/mp4">
+<source id="mp4" src="http://q62ssd5sv.bkt.clouddn.com/video2%E8%B0%83%E8%89%B2.mp4?e=1582333552&token=2tuIfajKFCm5nQiP-Ygqxa4iAMmVOhQCw9nGrqsa:KTlNnb5LhZx_9YdXCDY_CfYRHqM=" type="video/mp4">
 </video>   
 
 对于视频调色，尽量做到真实。但是，要达到某些效果时，可以用夸张的调色表现情感。例如，低总饱和度和强唇色可以渲染恐怖的氛围，类似的大家可以自己摸索。   
@@ -41,6 +41,6 @@ tags:
 
 调音的准则依然是：真实。   
 <video id="video" controls="" preload="none" poster="http://om2bks7xs.bkt.clouddn.com/2017-08-26-Markdown-Advance-Video.jpg">
-<source id="mp4" src="http://never-gargoyle.b7f3.cn/video/%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B/3%E5%A3%B0%E9%9F%B3.mp4" type="video/mp4">
+<source id="mp4" src="http://q62ssd5sv.bkt.clouddn.com/video2%E8%B0%83%E8%89%B2.mp4?e=1582333552&token=2tuIfajKFCm5nQiP-Ygqxa4iAMmVOhQCw9nGrqsa:KTlNnb5LhZx_9YdXCDY_CfYRHqM=" type="video/mp4">
 </video>   
 视频制作重点在练习。软件已经发在外联部群里了，尽量自己试试吧！   
