@@ -19,7 +19,7 @@ tags:
 首先，我们先复习一下PR的基本操作；对于我们现在可以用到的地方来说，这些基础操作才是最重要的，务必熟悉掌握！   
 
 <video id="video" controls="" preload="none" poster="http://om2bks7xs.bkt.clouddn.com/2017-08-26-Markdown-Advance-Video.jpg">
-<source id="mp4" src="http://q62ssd5sv.bkt.clouddn.com/video1%E5%A4%8D%E4%B9%A0.mp4?e=1582333552&token=2tuIfajKFCm5nQiP-Ygqxa4iAMmVOhQCw9nGrqsa:88gJm4cVxUdILqEn0xQac1m-A9c=" type="video/mp4">
+<source id="mp4" src="https://freeshadow-my.sharepoint.com/personal/rks2gmrmx_abcda_tech/Documents/%e5%88%b6%e4%bd%9c%e6%88%90%e5%93%81/%e8%a7%86%e9%a2%91%e5%9f%b9%e8%ae%ad/1%e5%a4%8d%e4%b9%a0.mp4?&originalPath=aHR0cHM6Ly9mcmVlc2hhZG93LW15LnNoYXJlcG9pbnQuY29tLzp2Oi9nL3BlcnNvbmFsL3JrczJnbXJteF9hYmNkYV90ZWNoL0VUV3hrd3dCNldsSGhaeEM5Vzg0WHN3Qi1UcW9Td2dpTm1RRWVCQktndENjWmc_cnRpbWU9QmZ2d0tHbTMxMGc" type="video/mp4">
 </video>   
 
 接下来，我们可以讲一点比较轻松有意思的东西。   
@@ -28,7 +28,7 @@ tags:
 
 关于调色。   
 <video id="video" controls="" preload="none" poster="http://om2bks7xs.bkt.clouddn.com/2017-08-26-Markdown-Advance-Video.jpg">
-<source id="mp4" src="http://q62ssd5sv.bkt.clouddn.com/video2%E8%B0%83%E8%89%B2.mp4?e=1582333552&token=2tuIfajKFCm5nQiP-Ygqxa4iAMmVOhQCw9nGrqsa:KTlNnb5LhZx_9YdXCDY_CfYRHqM=" type="video/mp4">
+<source id="mp4" src="https://freeshadow-my.sharepoint.com/personal/rks2gmrmx_abcda_tech/Documents/%e5%88%b6%e4%bd%9c%e6%88%90%e5%93%81/%e8%a7%86%e9%a2%91%e5%9f%b9%e8%ae%ad/2%e8%b0%83%e8%89%b2.mp4?&originalPath=aHR0cHM6Ly9mcmVlc2hhZG93LW15LnNoYXJlcG9pbnQuY29tLzp2Oi9nL3BlcnNvbmFsL3JrczJnbXJteF9hYmNkYV90ZWNoL0VTRHNhamFSdGk1QnJxREY5YkQzcGFzQkZKdVZXOExvVGFRcy0zZGhObmU0ZWc_cnRpbWU9QW9uWnFHbTMxMGc" type="video/mp4">
 </video>   
 
 对于视频调色，尽量做到真实。但是，要达到某些效果时，可以用夸张的调色表现情感。例如，低总饱和度和强唇色可以渲染恐怖的氛围，类似的大家可以自己摸索。   
@@ -43,6 +43,6 @@ tags:
 
 调音的准则依然是：真实。   
 <video id="video" controls="" preload="none" poster="http://om2bks7xs.bkt.clouddn.com/2017-08-26-Markdown-Advance-Video.jpg">
-<source id="mp4" src="http://q62ssd5sv.bkt.clouddn.com/video2%E8%B0%83%E8%89%B2.mp4?e=1582333552&token=2tuIfajKFCm5nQiP-Ygqxa4iAMmVOhQCw9nGrqsa:KTlNnb5LhZx_9YdXCDY_CfYRHqM=" type="video/mp4">
+<source id="mp4" src="https://freeshadow-my.sharepoint.com/personal/rks2gmrmx_abcda_tech/Documents/%e5%88%b6%e4%bd%9c%e6%88%90%e5%93%81/%e8%a7%86%e9%a2%91%e5%9f%b9%e8%ae%ad/3%e5%a3%b0%e9%9f%b3.mp4?&originalPath=aHR0cHM6Ly9mcmVlc2hhZG93LW15LnNoYXJlcG9pbnQuY29tLzp2Oi9nL3BlcnNvbmFsL3JrczJnbXJteF9hYmNkYV90ZWNoL0VRemVqQ2pLTHIxR2gxUjYzQUM5VUtRQlpCYThad3g5cDR5Rjl6RWhhUXJteXc_cnRpbWU9LWM4RjAybTMxMGc" type="video/mp4">
 </video>   
 视频制作重点在练习。软件已经发在外联部群里了，尽量自己试试吧！   
