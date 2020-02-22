@@ -2,7 +2,7 @@
 layout:     post
 title:      外联部视频课程
 subtitle:   [BOA]PR的简易入门教程。为外联部定制！！
-date:       2020-01-21
+date:       2020-02-21
 author:     NEVER_Gargoyle
 header-img: img/post-bg-2015.jpg
 catalog: true
